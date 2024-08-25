@@ -5,43 +5,47 @@ O Sistema de Caixa é uma aplicação desenvolvida em Java para otimizar o proce
 
 
 ## :pushpin: Funcionalidades
-  - Adicionar Itens: Insira o preço dos itens e adicione-os ao caixa.
-  - Calcular Total: Veja o total a pagar com base nos itens adicionados.
-  - Gerenciar Pagamentos: Aceite pagamentos em dinheiro e outros métodos.
-  - Calcular Troco: Receba o troco automaticamente quando o pagamento é feito em dinheiro.
-  - Exibir Resumo: Visualize um resumo detalhado dos itens e valores.
-  - Abrir Caixa: Finalize a transação e prepare o caixa para o próximo cliente.
+  - <b>Adicionar Itens:</b> Insira o preço dos itens e adicione-os ao caixa.
+  - <b>Calcular Total:</b> Veja o total a pagar com base nos itens adicionados.
+  - <b>Gerenciar Pagamentos:</b> Aceite pagamentos em dinheiro e outros métodos.
+  - <b>Calcular Troco:</b> Receba o troco automaticamente quando o pagamento é feito em dinheiro.
+  - <b>Exibir Resumo:</b> Visualize um resumo detalhado dos itens e valores.
+  - <b>Abrir Caixa:</b> Finalize a transação e prepare o caixa para o próximo cliente.
 
 
 ## :computer: Como Usar
-1. Clone o Repositório:
+<b>1. Clone o Repositório:</b>
 <code>git clone https://github.com/seu-usuario/sistema-caixa.git</code>
-2. Compile e Execute o Projeto: Abra o projeto em uma IDE Java (como NetBeans) e execute o arquivo SistemaCaixaGUI.java.
 
-3. Interaja com a Interface:
-  - Insira o preço do item e clique em "Adicionar Item" ou pressione ENTER.
-  - Selecione o método de pagamento.
-  - Clique em "Exibir Resumo" para visualizar os detalhes da transação.
-  - Clique em "Abrir Caixa" para finalizar a transação e obter o troco.
+<b>2. Compile e Execute o Projeto:</b> Abra o projeto em uma IDE Java (como NetBeans) e execute o arquivo SistemaCaixaGUI.java.
+
+<b>3. Interaja com a Interface:</b>
+  - Insira o preço do item e clique em <b>"Adicionar Item"</b> ou pressione <b>ENTER</b>.
+  - Selecione o <b>método de pagamento</b>.
+  - Clique em <b>"Exibir Resumo"</b> para visualizar os detalhes da transação.
+  - Clique em <b>"Abrir Caixa"</b> para finalizar a transação e obter o troco.
 
 
 ## ⚒ Recursos Utilizados
 <table align="center"> <tr> <th><h3>Linguagem</h3></th> <th><h3>IDE</h3></th> </tr> <tr> <td align="center"> <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR"> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;"> </a> </td> <td align="center"> <a href="https://netbeans.apache.org/front/main/download/"> <img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" style="max-width:100%;"> </a> </td> </tr> </table> 
 
 ## :memo: Como Contribuir
-1. Faça um Fork do repositório.
-2. Crie uma nova branch para suas alterações:
+<b>1.</b> Faça um Fork do repositório.
+
+<b>2.</b> Crie uma nova branch para suas alterações:
 <code>git checkout -b minha-nova-funcionalidade</code>
   
-3. Faça Commit das suas alterações:
+<b>3.</b> Faça Commit das suas alterações:
 <code>git commit -m "feature: Adiciona nova funcionalidade"</code>
 
-4. Envie suas alterações:
+<b>4.</b> Envie suas alterações:
 <code>git push origin minha-nova-funcionalidade</code>
 
-6. Abra um Pull Request para revisão.
+<b>5.</b> Abra um Pull Request para revisão.
 
   <blockquote><p>Dúvidas? Confira o <a rel="noopener" target="_new" href="https://github.com/firstcontributions/first-contributions">guia de contribuição no GitHub</a>.</p></blockquote>
+
+<br>
 
 ## :memo: Estrutura de Dados
 Não há integração com banco de dados. O sistema utiliza uma estrutura interna para gerenciar itens e transações.
